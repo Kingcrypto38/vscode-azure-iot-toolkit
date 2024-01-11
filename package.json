@@ -822,7 +822,7 @@
     "@azure/event-hubs": "^5.2.2",
     "@azure/ms-rest-azure-env": "^2.0.0",
     "@azure/ms-rest-nodeauth": "^3.0.5",
-    "ajv": "^6.12.4",
+    "ajv": "^8.12.0",
     "axios": "^0.21.4",
     "azure-iot-device-mqtt": "^1.15.0",
     "azure-iothub": "^1.12.4",
