@@ -837,8 +837,8 @@
     "replace-in-file": "^6.1.0",
     "strip-json-comments": "^3.1.1",
     "uuid": "^8.3.0",
-    "vscode-azureextensionui": "^0.35.0",
-    "vscode-extension-telemetry": "^0.1.6",
+    "vscode-azureextensionui": "^0.50.0",
+    "vscode-extension-telemetry": "^0.4.5",
     "vscode-test": "^1.4.1",
     "vue": "^2.6.14"
   },
