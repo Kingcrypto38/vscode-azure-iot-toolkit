@@ -817,7 +817,7 @@
   "dependencies": {
     "@azure/arm-deviceprovisioningservices": "^2.1.0",
     "@azure/arm-eventhub": "^3.2.0",
-    "@azure/arm-iothub": "^3.0.0",
+    "@azure/arm-iothub": "^6.0.0",
     "@azure/arm-subscriptions": "^2.0.0",
     "@azure/event-hubs": "^5.2.2",
     "@azure/ms-rest-azure-env": "^2.0.0",
@@ -837,7 +837,7 @@
     "replace-in-file": "^6.1.0",
     "strip-json-comments": "^3.1.1",
     "uuid": "^8.3.0",
-    "vscode-azureextensionui": "^0.35.0",
+    "vscode-azureextensionui": "^0.50.0",
     "vscode-extension-telemetry": "^0.1.6",
     "vscode-test": "^1.4.1",
     "vue": "^2.6.14"
